@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 26 May 2020 11:23:37 at http://www.radprocalculator.com/Decay.aspx +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.radprocalculator.com/Decay.aspx -O1 "C:\My Web Sites\RadPro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:23:39	Warning: 	Note: due to www.radprocalculator.com remote robots.txt rules, links beginning with these path will be forbidden: /bin/, /Images/, /Database/, /Slideshow/, /CSS/, /XAML/, /Files/Gollnick/, /Files/CSS/, /Files/Script/, /Logs/, /Stats/ (see in the options to disable this)
+11:24:09	Error: 	"Not Found" (404) at link www.radprocalculator.com/blank.gif (from www.radprocalculator.com/Decay.aspx)
+11:24:09	Error: 	"Not Found" (404) at link www.radprocalculator.com/0604scroll2ldlalr.gif (from www.radprocalculator.com/Decay.aspx)
+11:24:19	Error: 	"Not Found" (404) at link www.radprocalculator.com/event.srcElement (from www.radprocalculator.com/WebResource.axd?d=7n3SVeFjMW8QEKcxjFgtZR5tauVHpADM4VZLnQrrvBTBtqZfMIpQDzxrWcsfB-7Prxx0CfDX8ZuQIsJ9DLXluPeluMGOCKXd6u5-C2KbmV81&t=637100518460000000)
+11:24:19	Error: 	"Not Found" (404) at link www.radprocalculator.com/this._parseDelta(sender); (from www.radprocalculator.com/ScriptResource.axd?d=_-Jlql57xH0UKlmzWsD5kCf2mI7-pPtB0iZZbuoa4ufoViE7j96R4Mnumpkhpx70KXvybpzUSr6F1CuI5er3Kefn1V27FVs0znJfB26Uolo1DXODjyMKTuuPX1stCPHzlz6I2Sqd--uO8VAdDvBwvw2&t=f2cd5c5)
+11:24:36	Error: 	"Not Found" (404) at link www.radprocalculator.com/statcounter.com/localstorage/ (from www.statcounter.com/counter/counter_xhtml.js)
+11:24:59	Error: 	"Not Found" (404) at link www.radprocalculator.com/UraniumEnrichment.aspx (from www.radprocalculator.com/)
+11:24:59	Error: 	"Not Found" (404) at link www.radprocalculator.com/UraniumFuel.aspx (from www.radprocalculator.com/)
+11:25:00	Error: 	"Not Found" (404) at link www.radprocalculator.com/Request.aspx (from www.radprocalculator.com/)
+11:25:00	Error: 	"Not Found" (404) at link www.radprocalculator.com/MailingList.aspx (from www.radprocalculator.com/)
+11:25:00	Error: 	"Not Found" (404) at link www.radprocalculator.com/Commas.aspx (from www.radprocalculator.com/)
+11:26:51	Error: 	"Not Found" (404) at link www.radprocalculator.com/Compat/Timer/Timer.js (from www.radprocalculator.com/ScriptResource.axd?d=-U37-NkvyBZbk9bsXz5t330Gm6evuHe-_EZyvsYvD6ih6mjCjAIdtXpmwtZFV4acfDYDGUq4MrSy6gLlThYS7Fy4CNa9iGOoGUxPLHhSrzB-A_aZ6UXzPeyQs94KlMXGPg6EEsKw-IakW6F2PELkpA2&t=f2cd5c5)
+11:26:51	Error: 	"Not Found" (404) at link www.radprocalculator.com/Common/Common.js (from www.radprocalculator.com/ScriptResource.axd?d=-U37-NkvyBZbk9bsXz5t330Gm6evuHe-_EZyvsYvD6ih6mjCjAIdtXpmwtZFV4acfDYDGUq4MrSy6gLlThYS7Fy4CNa9iGOoGUxPLHhSrzB-A_aZ6UXzPeyQs94KlMXGPg6EEsKw-IakW6F2PELkpA2&t=f2cd5c5)
+11:26:51	Error: 	"Not Found" (404) at link www.radprocalculator.com/ExtenderBase/BaseScripts.js (from www.radprocalculator.com/ScriptResource.axd?d=BQCJyCuEPjt8EgJA2fRuLXZZZOjJTwNT3cOUlVOKynoQFrgJjrDsdjTehoxUTMVhaeQPQi3cw_GPPtY_03AryLNDWuwJlP_9SRklJsXuoJnyBTtEWmjV160Lzrv_wwCjNl8b0KbWjGBMVMxaCCT76SDhr8r55fX8X2KUf0mGXTs1&t=f2cd5c5)
+11:26:51	Error: 	"Not Found" (404) at link www.radprocalculator.com/Animation/Animations.js (from www.radprocalculator.com/ScriptResource.axd?d=BQCJyCuEPjt8EgJA2fRuLXZZZOjJTwNT3cOUlVOKynoQFrgJjrDsdjTehoxUTMVhaeQPQi3cw_GPPtY_03AryLNDWuwJlP_9SRklJsXuoJnyBTtEWmjV160Lzrv_wwCjNl8b0KbWjGBMVMxaCCT76SDhr8r55fX8X2KUf0mGXTs1&t=f2cd5c5)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 14 seconds : 126 links scanned, 111 files written (7188212 bytes overall) [4580475 bytes received at 23610 bytes/sec], 3359975 bytes transferred using HTTP compression in 38 files, ratio 20%
+(14 errors, 1 warnings, 0 messages)

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.statcounter.com	TRUE	/	FALSE	1999999999	__cfduid	d91268292310383d215c47241db36baeb1590488627
+www.statcounter.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.radprocalculator.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	tfau1mv2uta3lt43fi2bapws
+www.radprocalculator.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
